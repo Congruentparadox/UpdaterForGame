@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Starting Place","order":1,"parentId":0,"scrollX":794.6666666666666,"scrollY":779.3333333333334},
+{"id":2,"expanded":true,"name":"Tent in Starting Place 1","order":2,"parentId":1,"scrollX":612,"scrollY":416.6666666666667},
+{"id":3,"expanded":false,"name":"Tent in starting place 2","order":3,"parentId":1,"scrollX":612,"scrollY":416.6666666666667}
+]
