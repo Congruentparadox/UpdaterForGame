@@ -1,7 +1,7 @@
 
 <Version: Alpha 0.0.110>
 /data/Actors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Actors.json
-/data/Animations.json
+/data/Animations.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Animations.json
 /data/Armors.json
 /data/Classes.json
 /data/CommonEvents.json
