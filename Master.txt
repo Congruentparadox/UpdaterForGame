@@ -1,4 +1,4 @@
 
 <Version: Alpha 0.0.110>
-/data/
+/data/Actors.json 
 <End of Version>
