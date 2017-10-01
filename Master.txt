@@ -1,5 +1,5 @@
 
-<Version: Alpha 0.0.200>
+<Version: 1.0.200 Alpha>
 /data/Actors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Armors.json
