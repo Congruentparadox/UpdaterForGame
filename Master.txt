@@ -1,21 +1,21 @@
 
-<Version: 1.0.200 Alpha>
-/data/Actors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Actors.json
-/data/Animations.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Animations.json
-/data/Armors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Armors.json
-/data/Classes.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Classes.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/CommonEvents.json
-/data/Enemies.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Enemies.json
-/data/Items.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Items.json
-/data/Map001.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Map002.json
-/data/Map003.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Map003.json
-/data/Map004.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Map004.json
-/data/MapInfos.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/MapInfos.json
-/data/Skills.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Skills.json
-/data/States.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/States.json
-/data/System.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/System.json
-/data/Tilesets.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Tilesets.json
-/data/Troops.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Troops.json
-/data/Weapons.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Weapons.json
+<Version: 1.0.300 Alpha>
+/data/Actors.json 
+/data/Animations.json 
+/data/Armors.json 
+/data/Classes.json 
+/data/CommonEvents.json 
+/data/Enemies.json 
+/data/Items.json 
+/data/Map001.json 
+/data/Map002.json 
+/data/Map003.json 
+/data/Map004.json 
+/data/MapInfos.json 
+/data/Skills.json 
+/data/States.json 
+/data/System.json 
+/data/Tilesets.json 
+/data/Troops.json 
+/data/Weapons.json 
 <End of Version>
