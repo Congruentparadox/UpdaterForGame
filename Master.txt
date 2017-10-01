@@ -1,4 +1,20 @@
 
 <Version: Alpha 0.0.110>
-/data/Actors.json 
+/data/Actors.json https://raw.githubusercontent.com/Congruentparadox/UpdaterForGame/master/data/Actors.json
+/data/Animations.json
+/data/Armors.json
+/data/Classes.json
+/data/CommonEvents.json
+/data/Enemies.json
+/data/Items.json
+/data/Map001.json
+/data/Map002.json
+/data/Map003.json
+/data/MapInfos.json
+/data/Skills.json
+/data/States.json
+/data/System.json
+/data/Tilesets.json
+/data/Troops.json
+/data/Weapons.json
 <End of Version>
